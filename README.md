@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Bienvenue sur mon tout premier site !
 
-You can use the [editor on GitHub](https://github.com/giornogiovanna37/EL-HAIMAR-Hossam/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Je suis Hossam, 25 ans, marié et vivant dans notre belle région Tourangelle ! Depuis mon adolescence j'avais déja commencer à mettre un pied dans le devellopement web (html/css) mais mon parcours faisant, j'ai retiré durant plusieurs années cette idée de mon esprit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ce qui me motive fondamentalement à intégrer la formation CEFIM provient de mon envie grandissante de comprendre et concevoir les applications (web/mobile) que j'utilise au quotidien. Par ailleurs mes dernières expériences professionnlles m'ont vraiment confortées dans ce projet et c'est aussi un secteur d'avenir (IOT,IA,etc,etc) ainsi que porteur de grand projet d'envergure à l'heure ou j'écris ces lignes.
 
-### Markdown
+### D'ou je viens ? Ou je vais ?
+Diplômé d'un BAC Professionel SENTR (Systémes Electroniques et numériques : Télécommunications réseaux) j'ai par la suite suivi un parcours assez atypique mais dont je reste fier
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ma carrière à commencé par 2 ans de Gendarmerie Nationale ce fut une éxperience très enrichissante et m'a appris du haut de mes 18 ans à garder mon sang froid, de la discipline et de la rigueur.
+
+Par la suite j'ai effectué 2 années de technicien service desk dans le domaine de la monétique, c'est ce qui m'a donné le gout à la satisfaction client et également au support technique/applicatif.
+Puis une 
 
 ```markdown
 Syntax highlighted code block
